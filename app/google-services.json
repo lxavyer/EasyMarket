@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6372665114",
+    "project_id": "easymarket-4b5f2",
+    "storage_bucket": "easymarket-4b5f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6372665114:android:841946aa9c3e0c33ae6ea3",
+        "android_client_info": {
+          "package_name": "ufmg.coltec.easymarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3oVjKe4WTBIPt8Dkx1xZ-DNXVcwWjjd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
